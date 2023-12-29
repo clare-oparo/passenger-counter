@@ -16,3 +16,21 @@ h2{
     margin-bottom: 10px;
 }
 
+button{
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 200px;
+    color: blue;
+    font-weight: bolder;
+    border-radius: 20px;
+
+}
+
+#increment-btn{
+    background: yellowgreen;
+}
+
+#save-btn{
+    background: orange;
+}
