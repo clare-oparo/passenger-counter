@@ -1,0 +1,18 @@
+body{
+    background-image: url("analytics.png");
+    background-size: cover;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+h1{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2{
+    font-size: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
